@@ -6,7 +6,10 @@
 name: ПроРеальность
 
 # Short bio or description (displayed in the header)
-description: Точно в цель
+description: Школа личной эффективности
+
+# Slogan (displayed in the footer)
+slogan: Ты можешь больше
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: 
